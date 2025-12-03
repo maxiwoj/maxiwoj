@@ -12,7 +12,7 @@
 I believe creativity drives great engineering.  Outside of work, I explore technology through **visual storytelling and design** — capturing drone footage, building creative tools, and experimenting with new forms of expression. 
 
 [![Website](https://img.shields.io/badge/mwojczuk.photo-444444?style=for-the-badge&logo=shield&logoColor=white)](https://mwojczuk.photo)
-[![Youtube](https://img.shields.io/badge/macswwk-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maxwojczuk)
+[![Youtube](https://img.shields.io/badge/macswwk-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@macswwk)
 [![Quintesencia](https://img.shields.io/badge/Quintesencia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quintesencia5351)
 [![Instagram](https://img.shields.io/badge/macsww-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/macsww/)
 
