@@ -15,9 +15,3 @@ I believe creativity drives great engineering.  Outside of work, I explore techn
 [![Youtube](https://img.shields.io/badge/macswwk-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@macswwk)
 [![Quintesencia](https://img.shields.io/badge/Quintesencia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quintesencia5351)
 [![Instagram](https://img.shields.io/badge/macsww-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/macsww/)
-
-
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=maxiwoj alt=maxiwoj /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=maxiwoj&show_icons=true&include_all_commits=true)](https://github.com/maxiwoj/github-readme-stats)
